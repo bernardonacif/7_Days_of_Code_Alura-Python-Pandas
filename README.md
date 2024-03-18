@@ -1,4 +1,4 @@
-# Desafio de 7 Dias - Trabalhando com Pandas em Python - Alura
+# Desafio de 7 Dias - Trabalhando com Pandas em Python - Alura - #7DaysOfCode
 
 
 
@@ -48,6 +48,31 @@ Você precisará ainda excluir alguns dados e modificar outros.
 
 A coluna "registro_sistema", por exemplo, não está fazendo sentido para essa análise, por isso você pode exclui-la.
 Já a coluna da matricula (“matricula_ou_siape”) não está com um formato muito legível. Transforme-a em formato String."
+
+## Day 03
+
+"A diretoria da biblioteca gostaria de entender se a quantidade de empréstimos está diminuindo, aumentando ou permanecendo igual ao decorrer dos últimos anos.
+
+Para isso, verifique qual é a quantidade total de exemplares emprestados por cada ano e plote um gráfico de linhas.
+
+Depois, faça uma análise em relação à visualização gerada.
+
+Atente-se para a quantidade de exemplares emprestados, e não de empréstimos realizados.
+
+A diretoria também gostaria de gerenciar melhor os recursos humanos da biblioteca de acordo com a demanda de trabalho existente. Por exemplo:
+
+gerenciar a programação de férias dos colaboradores de acordo com os meses de menor demanda;
+programar atividades que não sejam de atendimento ao usuário para períodos específicos de menor demanda.
+
+Há uma suspeita interna de que os meses com maior número de exemplares emprestados sejam março e setembro, mas não foi realizada uma análise real sobre isso.
+
+Portanto, gere uma tabela com a quantidade total de exemplares emprestados por mês e descubra quais meses são os que possuem a maior quantidade de empréstimos realizados. Plote um gráfico de linhas.
+
+Traga suas análises em relação a quais meses poderiam ser as melhores opções.
+
+Além do gerenciamento anual das atividades, a diretoria também necessita que seja planejada uma programação diária das atividades. Por este motivo, verifique quais foram os horários com maior quantidade de empréstimos ao longo de um dia inteiro.
+
+Plote um gráfico de barras e analise quais seriam os melhores horários para alocar as demais atividades que não sejam de atendimento ao usuário."
 
 ## Como Contribuir
 Se você tiver sugestões para melhorar os scripts apresentados ou encontrar algum problema, sinta-se à vontade para abrir uma issue.
